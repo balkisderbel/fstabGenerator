@@ -17,7 +17,7 @@ NOTE : This script has been designed to configure fstab from scratch only based 
 
 1. Run `git clone https://github.com/balkisderbel/fstabGenerator.git` 
 2. Run `pip install -r requirements.txt` to install dependencies
-3. Run `python fstab.py file.yaml`
+3. Run `python parser.py file.yaml`
 4. check out the /etc/fstab and if everything is right use `mount -a` or Restore a backup file if something is wrong.
 
 
