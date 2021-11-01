@@ -75,8 +75,4 @@ with open(sys.argv[1], "r") as file:
 
 # if you want to mount fstab after process finished please uncomment next line
 # mountcmd = subprocess.run(["mount", "-a"])
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
+
